@@ -20,7 +20,7 @@ AI4Science可简单理解为——人工智能赋能自然科学(AI for Science,
 
 ### GitHub
 
-https://gitee.com/xiezuoru/AITestBank
+https://github.com/XEduPro/AITestBank
 
 ### Gitee
 
