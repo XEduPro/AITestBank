@@ -2,7 +2,6 @@
 
 本仓库存储各种AI能力测试的资料，如中小学人工智能教师基本功测试资料、人工智能特长生的入学考试等。
 
-
 ## 内容简介
 
 1.全国中小学人工智能教育展示活动技能测试（教师）
@@ -17,6 +16,15 @@
 
 AI4Science可简单理解为——人工智能赋能自然科学(AI for Science, AI4Sci)的科研方法，是推动科学研究深入发展的重要驱动力。中小学如何为AI4Science做准备？
 
+## 仓库地址
+
+### GitHub
+
+https://gitee.com/xiezuoru/AITestBank
+
+### Gitee
+
+https://gitee.com/xiezuoru/AITestBank
 
 
 
